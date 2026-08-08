@@ -1,0 +1,2 @@
+# REAL-TIME-FOOD-ADULTERATION-DETECTION-USING-INFRARED-SPECTROSCOPY
+This repository contains the code and methodology for a portable, non-destructive hybrid system designed for the real-time detection of food adulterants. By synergizing Infrared Spectroscopy, the project utilizes a lightweight 1D-CNN to deliver rapid diagnostic feedback directly in the field, eliminating the need for cloud connectivity
