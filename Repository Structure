@@ -1,0 +1,11 @@
+food-adulteration-detection/
+├── data/
+│   ├── raw_templates/           # Raw spectral image templates
+│   └── synthetic_dataset/       # Generated 4,000 empirical spectra samples
+├── src/
+│   ├── signal_extraction.py     # OpenCV HSV isolation and pixel energy analysis
+│   ├── data_generator.py        # Continuous concentration blending and noise addition
+│   └── model_architecture.py    # Multi-output 1D-CNN definition
+├── main.py                      # Training script and pipeline execution
+├── requirements.txt             # Python dependencies (OpenCV, TensorFlow/Keras, NumPy, etc.)
+└── README.md                    # Project documentation
